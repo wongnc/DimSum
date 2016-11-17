@@ -1,0 +1,62 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-color: #262626;
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+nav .container .navbar-header a{
+	font-size: 35px;
+	color:white;
+	font-family: 'Molle', cursive;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.panel-body .panel-button{
+	text-align:center;
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+.container-fluid {
+	background-color: #262626;
+}
+
+.row .col-lg-12 .page-header{
+	font-family: 'Shrikhand', cursive;
+}
+
+.row h1, h2{
+	color:white;
+}
+
+.row .col-md-6 {
+	color:white;
+}
+
+footer{
+	color:white;
+}
+
+footer #socialMedia a{
+	color:#FFD204;
+}
+
+footer #socialMedia i{
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+
